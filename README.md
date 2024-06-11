@@ -4,7 +4,7 @@ Shwetas Blog is a fullstack application dedicated to blogging about various soft
 
 ## Demo
 
-Live demo : http://shwetasdhake.blogs.vercel.app/
+Live demo : [http://shwetasdhake.blogs.vercel.app/](https://personal-blog-patform.vercel.app/)
 
 ### Steps to Run Locally
 
